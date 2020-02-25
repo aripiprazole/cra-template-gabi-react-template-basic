@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-react",
+    "tslint-eslint-rules",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "member-ordering": false,
+    "jsx-no-lambda": false,
+    "jsx-boolean-value": false,
+    "ter-indent": [true, 2],
+    "quotemark": [true, "double"],
+    "no-implicit-dependencies": false,
+    "no-submodule-imports": false,
+    "no-console": false
+  },
+  "jsRules": {
+    "no-console": false
+  }
+}

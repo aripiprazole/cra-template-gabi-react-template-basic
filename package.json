@@ -1,0 +1,9 @@
+{
+	"name": "cra-template-lorenzoog-react-template-basic",
+	"version": "1.0.6",
+	"main": "template.json",
+	"files": [
+		"template",
+		"template.json"
+	]
+}
