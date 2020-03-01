@@ -1,7 +1,5 @@
 # Template for ReactJS using Typescript
 
----
-
 > Template with my basic structure for reactjs
 
 ## Source tree
@@ -27,10 +25,14 @@ your_app/
         assets/
             logo.svg
         components/
-        interfaces/
+            .gitkeep
+        entities/
             User.ts
+            Entity.ts
+            index.ts
         services/
-            api.ts
+            index.ts
+            Service.ts
         store/
             ducks/
                 index.ts
