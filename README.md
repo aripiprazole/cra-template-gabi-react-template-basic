@@ -62,19 +62,19 @@ your_app/
 To start with this structure, you can just execute the command below:
 
 ```
-yarn create-react-app {app-name} --template lorenzoog-react-template-basic
+yarn create-react-app {app-name} --template gabi-react-template-basic
 ```
 
 or
 
 ```
-yarn create react-app {app-name} --template lorenzoog-react-template-basic
+yarn create react-app {app-name} --template gabi-react-template-basic
 ```
 
 or if you are using npx
 
 ```
-npx create-react-app {app-name} --template lorenzoog-react-template-basic
+npx create-react-app {app-name} --template gabi-react-template-basic
 ```
 
 and after this
